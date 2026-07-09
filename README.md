@@ -22,4 +22,4 @@ A simple Python console application that calculates an electricity bill based on
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/HarpreetMahalwar/electricity-bill-calculator.git
+   git clone https://github.com/HarpreetMahalwar/ElectricityBill.git
